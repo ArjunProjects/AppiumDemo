@@ -31,6 +31,7 @@ public class HomeTest extends Base {
 		d.editBox.sendKeys("testhybrid");
 		d.okBtn.click();
 		System.out.println("test git");
+		System.out.println("test git2");
 		service.stop();
 
 	}
