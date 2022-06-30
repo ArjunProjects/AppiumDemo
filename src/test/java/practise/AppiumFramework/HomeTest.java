@@ -36,5 +36,9 @@ public class HomeTest extends Base {
 		service.stop();
 
 	}
+		@Test
+		public void testApp() {
+			System.out.println("New test case");
+		}
 
 }
