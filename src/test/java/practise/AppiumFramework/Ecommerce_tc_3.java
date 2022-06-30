@@ -57,7 +57,8 @@ public class Ecommerce_tc_3 extends Base{
 		System.out.println("happy testing!!!!!!!!!!");
 		
 		System.out.println("sample test1");
-		System.out.println("sample test1");
+		System.out.println("sample test2");
+		System.out.println("sample test3");
 		service.stop();
 		
 		

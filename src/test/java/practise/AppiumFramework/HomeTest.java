@@ -32,8 +32,13 @@ public class HomeTest extends Base {
 		d.okBtn.click();
 		System.out.println("test git");
 		System.out.println("test git2");
+		System.out.println("test git3");
 		service.stop();
 
 	}
+		@Test
+		public void testApp() {
+			System.out.println("New test case");
+		}
 
 }
