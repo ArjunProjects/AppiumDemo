@@ -55,7 +55,12 @@ public class Ecommerce_tc_3 extends Base{
 		System.out.println(fAmount);
 		Assert.assertEquals(sum,fAmount);
 		System.out.println("happy testing!!!!!!!!!!");
+		
+		System.out.println("sample test1");
+		System.out.println("sample test1");
 		service.stop();
+		
+		
 		
 	}
 

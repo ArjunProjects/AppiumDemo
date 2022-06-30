@@ -30,6 +30,7 @@ public class HomeTest extends Base {
 		d.wifiSetting.click();
 		d.editBox.sendKeys("testhybrid");
 		d.okBtn.click();
+		System.out.println("test git");
 		service.stop();
 
 	}
