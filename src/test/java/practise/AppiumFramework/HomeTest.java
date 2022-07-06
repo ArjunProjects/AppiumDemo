@@ -33,6 +33,7 @@ public class HomeTest extends Base {
 		System.out.println("test git");
 		System.out.println("test git2");
 		System.out.println("test git3");
+		System.out.println("test git4");
 		service.stop();
 
 	}
